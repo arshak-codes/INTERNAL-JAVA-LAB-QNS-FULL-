@@ -70,7 +70,7 @@ class Borrower extends Depositor {
     }
 }
 
-public class Main1 {
+public class SETB {
     public static void main(String[] args) {
         Borrower[] customers = new Borrower[3];
 
