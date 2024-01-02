@@ -79,7 +79,7 @@ class Data{
 }
 }
 
-public class Main0{
+public class SETA{
     public static void main(String[] args) {
         try{
             Scanner sc = new Scanner(System.in);
